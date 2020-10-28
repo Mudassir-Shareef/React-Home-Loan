@@ -1,0 +1,40 @@
+.App {
+  margin: 6px;
+  text-align: left;
+}
+
+h5{
+  font-family: serif;
+  font-size: 20px;
+}
+
+li{
+  list-style: none;
+}
+
+.data-table{
+  text-align: center;
+  margin: 10px;
+  padding: 3px;
+  border: 1px solid #000000;
+}
+
+.thead{
+  text-align: center;
+  font-size: 14px;
+  padding: 8px;
+  margin: 2px;
+  border: 1px solid #000000;
+}
+
+.tbody{
+  border: 1px solid #000000;
+}
+
+.company{
+  padding: 2px;
+  margin: 2px;
+  font-size: 12px;
+  text-align: left;
+  border: 1px solid #000000;
+}
